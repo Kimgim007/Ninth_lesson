@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
 
             Stat_method.Method("asdads", "fsdf1", "fsdf1");
+
              
         }
     }

@@ -8,6 +8,7 @@ using Ninth_lesson.Exceptions;
 
 namespace Ninth_lesson
 {
+    
     public class Stat_method
     {
         public static void Method(string login, string password, string confirmPassword)

@@ -8,6 +8,7 @@ namespace Ninth_lesson.Exceptions
 {
     public class WrongPasswordException:Exception
     {
+       
         public WrongPasswordException() { }
         public WrongPasswordException(string message) : base(message) { }
         public override string ToString()

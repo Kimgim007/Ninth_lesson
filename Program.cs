@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-
+            //Тут тестим 
             Stat_method.Method("asdads", "fsdf1", "fsdf1");
 
              
